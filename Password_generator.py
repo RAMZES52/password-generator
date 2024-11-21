@@ -21,7 +21,7 @@ class PasswordGeneratorApp(QWidget):
     def initUI(self):
         self.setWindowTitle('Генератор паролей')
         self.resize(400, 300)
-        self.setWindowIcon(QIcon('path/to/icon.png'))
+        self.setWindowIcon(QIcon('/home/student/PycharmProjects/pythonProject/1.jpg'))
 
         main_layout = QVBoxLayout()
 
